@@ -10,8 +10,9 @@
 <body>
     <p>Git</p>
     <p>Hola arriba</p>
-        <h1>Hola soy Brandon</h1>
     <p>Hola Abajo</p>
     <p>Tercer intento</p>
+        <input type="text" value="este es mera practica">
+
 </body>
 </html>
