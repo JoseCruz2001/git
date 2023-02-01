@@ -12,7 +12,14 @@
     <p>Hola arriba</p>
     <p>Hola Abajo</p>
     <p>Tercer intento</p>
+
         <input type="text" value="este es mera practica">
+
+
+            <p>Tercer intento</p>
+    <p>Tercer intento</p>
+
+        <p class="cruz" style="background-color:#094;">cuarto intento</p>
 
 </body>
 </html>
